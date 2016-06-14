@@ -1,4 +1,4 @@
-# ExpanseWallet Light v1.0.0
+# ExpanseWallet Light
 
 ![wallet-windows](https://cloud.githubusercontent.com/assets/4833541/16061122/d282608e-32ce-11e6-99ed-3e6e026b2aed.jpg)
 
